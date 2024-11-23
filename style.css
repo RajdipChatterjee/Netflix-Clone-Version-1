@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+main .section-1 {
+    height: 77vh;
+    width: 100%;
+    background-image: url(./assets/images/US-en-20230814-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-position: bottom;
+    background-size: 100;
+    box-shadow: 0px 0px 300px 125px inset;
+    filter: brightness(78%);
+}
